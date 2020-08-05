@@ -5,6 +5,7 @@
 ## Introduction:
 
 > This is A small Java Web Project for Booking Plane Tickets✈️
+> 这是一个Java Web小项目，一个订机票的网站
 
 ### Administrator: 
 

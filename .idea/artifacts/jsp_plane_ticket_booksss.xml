@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-ear" name="jsp_plane_ticket_booksss">
-    <output-path>$PROJECT_DIR$/../../../plane</output-path>
-    <root id="root">
-      <element id="artifact" artifact-name="jsp_plane_ticket_book" />
-    </root>
-  </artifact>
-</component>

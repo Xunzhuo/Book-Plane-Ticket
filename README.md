@@ -106,7 +106,7 @@
   + Run the SQL-Script in /SQL forder
 
 + Open your IDE: Eclipse/IDEA and set up Environment
-+ Start your Tomcat Server, then you can see the result.
++ Start your Tomcat Server, then you can see the Website.
 
 
 

@@ -8,6 +8,8 @@
 
 **Book-Plane-Ticket** 是个Java Web小项目，一个订机票的网站
 
+## Functions✨
+
 ### Administrator👮‍♀️: 
 
 + Administrator login
